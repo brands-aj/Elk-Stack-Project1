@@ -2,7 +2,7 @@
 This is a collection of Linux and Ansible scripts, most of which were used to configure cloud servers with different docker containers. The final project includes four servers; two of which are running the DVWA containers, the third server is a jump box provisioner, and the fourth server is running the Elk Stack container.
 The files in this repository were used to configure the network depicted below.
 
-![Network_Diagram]https://github.com/brands-aj/Elk-Stack-Project1/blob/main/Diagrams/Network_Diagram.drawio.png
+![Network_Diagram](https://github.com/brands-aj/Elk-Stack-Project1/blob/main/Diagrams/Network_Diagram.drawio.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select configuration files and playbooks may be used to install only certain pieces of it, such as Filebeat.
 
